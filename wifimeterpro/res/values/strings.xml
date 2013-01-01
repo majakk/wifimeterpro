@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>    
+    <string name="app_name">WiFi Meter Pro</string>
+    <string name="version">1.0.0</string>   
+    <string name="about">\n
+    WiFi Meter Pro aids in scanning environments for Wireless Networks based on the strongest signal.
+    \n\n
+    Please send comments or report bugs to:
+    \n
+	studio.coldstream@gmail.com\n	
+    </string>
+    
+</resources>
